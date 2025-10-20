@@ -42,7 +42,7 @@ With the script saved, I can now create a Group Policy Object that will allow th
 <br>
 <br>
  
-Since I am creating a logon script for users logging into the network, I can access this area under User Configuration, Policies, Windows Settings Scripts.
+Since I am creating a logon script for users logging into the network, I can access this area under User Configuration, Policies, Windows Settings, Scripts.
 <br>
 <br>
  <img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/8a668335-6130-4b18-88f0-65eadfb2dfec" />
