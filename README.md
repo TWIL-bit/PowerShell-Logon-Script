@@ -68,7 +68,7 @@ I’ve realized that it’s important to keep the scripts organized since each G
  <br>
 <br>
 
-I already have groups of users apart of the Groups OU but the groups inside didn’t automatically inherit the GPO so I didn’t see any new mappings at first. I added one of the users to the Groups OU directly and I can now see the mapped drive.
+I already have security groups apart of the Groups OU but the security groups inside didn’t automatically inherit the GPO so I didn’t see any new mappings at first. I added one of the users to the Groups OU directly and I can now see the mapped drive.
  <br>
 <br>
  <img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/08ecbbf1-de89-4a03-82c5-e0c8e9c3ab11" />
